@@ -87,7 +87,7 @@ Extending the Project
 
 
 
-# Security Ntice
+# Security Notice
 This project is intended for educational and controlled environments only.
 Do not deploy on production systems without proper isolation.
 
