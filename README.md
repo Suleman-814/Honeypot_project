@@ -97,3 +97,7 @@ MIT License
 Acknowledgments
 Built using the Paramiko library and inspired by common SSH honeypot implementations.
 
+**Note**
+
+This project is for educational purposes only!!
+
