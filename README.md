@@ -83,10 +83,6 @@ To visualize attacker login attempts by IP address:
 python visualize.py
 ```
 
-Extending the Project
-
-
-
 # Security Notice
 This project is intended for educational and controlled environments only.
 Do not deploy on production systems without proper isolation.
